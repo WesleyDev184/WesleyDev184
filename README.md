@@ -6,7 +6,6 @@
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyDev184&show_icons=true&theme=dracula&count_private=true)
 
-<br/>
 
 ## I'm a CS Student, Developer and UI Designer
 
@@ -14,7 +13,6 @@
 - 👯 I’m looking forward to connect with amazing people
 - 🧑🏻‍💻 I'm also in love with the UI/UX world and how we can make an impact in the world
 
-<br/>
 
 ## Technologies I use in my day
 
