@@ -9,9 +9,9 @@
 
 ## I'm a CS Student, Developer and UI Designer
 
-- 🤓 I'm Currently focused on Frontend Development mainly with JS techs such as React
-- 👯 I’m looking forward to connect with amazing people
-- 🧑🏻‍💻 I'm also in love with the UI/UX world and how we can make an impact in the world
+-  I'm Currently focused on Frontend Development mainly with JS techs such as React
+-  I’m looking forward to connect with amazing people
+-  I'm also in love with the UI/UX world and how we can make an impact in the world
 
 
 ## Technologies I use in my day
