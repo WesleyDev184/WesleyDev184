@@ -4,7 +4,7 @@
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador) -->
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyDev184&show_icons=true&theme=dracula&count_private=true)
+![wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyDev184&show_icons=true&theme=dracula&count_private=true)
 
 
 ## I'm a CS Student, Developer and UI Designer
