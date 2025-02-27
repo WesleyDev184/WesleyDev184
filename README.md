@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/wesleyantonio)  
 
-## I'm a CS Student, Backend Developer and Cloud Enthusiast  
+## I'm a Computer Science Student, Backend Developer and Cloud Enthusiast  
 
 - 🚀 Currently focused on Backend Development with C#, Java, and Node.js  
 - ☁️ Experience working with cloud services, mainly AWS  
@@ -19,3 +19,4 @@
   <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>  
+
